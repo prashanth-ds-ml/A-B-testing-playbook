@@ -3,3 +3,6 @@ pandas
 jupyterlab
 ipykernel
 ipywidgets
+matplotlib
+seaborn
+scikit-learn
