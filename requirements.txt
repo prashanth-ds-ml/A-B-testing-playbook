@@ -6,3 +6,5 @@ ipywidgets
 matplotlib
 seaborn
 scikit-learn
+statsmodels
+kagglehub
